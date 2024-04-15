@@ -1,0 +1,3 @@
+- this is on the other branch
+- this project has django project in it
+- it has some templates
